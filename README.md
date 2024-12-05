@@ -8,7 +8,7 @@ The availability of foundation models has transformed AI from a specialized disc
 The book is available on:
 - [Amazon](https://amzn.to/49j1cGS)
 - [O'Reilly](https://oreillymedia.pxf.io/c/5719111/2146021/15173)
-- Kindle (coming soon)
+- [Kindle](https://amzn.to/3Vq2ryu)
 
 and most places where technical books are sold.
 
