@@ -17,7 +17,8 @@ This book focuses on the key design decisions when building AI applications. Thi
 - [Table of contents](ToC.pdf)
 - [Chapter summaries](summary.md)
 - [Resources](resources.md)
-- [Appendix](appendix.md): stuff that I find interesting but are too niche to be included in the book.
+- [Appendix](appendix.md)
+- And more ...
 
 ## What This Book Is About
 This book provides a framework for adapting foundation models, which include both large language models (LLMs) and large multimodal models (LMMs), to specific applications. It not only outlines various solutions for building an AI application but also raises questions you can ask to evaluate the best solution for your needs. Here are just some of the many questions that this book can help you answer:
