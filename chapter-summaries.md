@@ -14,9 +14,19 @@ These are the summaries of each chapter taken from the book. Some of the summari
 * [Chapter 10. AI Engineering Architecture and User Feedback](#chapter-10-ai-engineering-architecture-and-user-feedback)
 
 ## Chapter 1. Introduction to Building AI Applications with Foundation Models
-<center><img src="assets/aie-stack-evolution.png" width="800"><br>
-<i>Figure 1-15. Cumulative count of repositories by category over time. Image originally from my <a href="https://huyenchip.com/2024/03/14/ai-oss.html">study</a> of 900+ AIE repos with at least 500 GitHub stars.</i>
-</center>
+Table 1-3. Common generative AI use cases across consumer and enterprise applications.
+
+
+| Category               | Examples of Consumer Use Cases          | Examples of Enterprise Use Cases           |
+|------------------------|-----------------------------------------|-------------------------------------------|
+| Coding                | Coding                                  | Coding                                    |
+| Image and Video Production | Photo and video editing<br>Design      | Presentation<br>Ad generation             |
+| Writing               | Email<br>Social media and blog posts    | Copywriting<br>SEO<br>Reports, memos, design docs |
+| Education             | Tutoring<br>Essay grading               | Employee onboarding<br>Employee upskill training |
+| Conversational Bots   | General chatbot<br>AI companion         | Customer support<br>Product copilots      |
+| Information Aggregation | Summarization<br>Talk-to-your-docs     | Summarization<br>Market research          |
+| Data Organization     | Image search<br>Memex                   | Knowledge management<br>Document processing |
+| Workflow Automation   | Travel planning<br>Event planning       | Data extraction, entry, and annotation<br>Lead generation |
 <br>
 
 I meant this chapter to serve two purposes. One is to explain the emergence of AI engineering as a discipline, thanks to the availability of foundation models. Two is to give an overview of the process needed to build applications on top of these models. I hope that this chapter achieved this goal. As an overview chapter, it only lightly touched on many concepts. These concepts will be explored further in the rest of the book.

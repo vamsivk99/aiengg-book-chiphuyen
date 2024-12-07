@@ -1,6 +1,18 @@
 # AI Engineering: Building Applications with Foundation Models (Chip Huyen 2025)
 > _This repo will be updated with more resources in the next few weeks._
 
+- [About the book](#about-the-book)
+    - [What this book is about](#what-this-book-is-about)
+    - [Who this book is for](#who-this-book-is-for)
+- [Table of contents](ToC.pdf)
+- [Chapter summaries](chapter-summaries.md)
+- [AI egnineering resources](resources.md)
+- [Case studies](case-studies.md)
+- [Misalignment AI](misalignment.md)
+- [Appendix](appendix.md)
+- And more ...
+
+## About the book
 The availability of foundation models has transformed AI from a specialized discipline into a powerful development tool everyone can use. This book covers the end-to-end process of adapting foundation models to solve real-world problems, encompassing tried-and-true techniques from other engineering fields and techniques emerging with foundation models.
 
 [<img src="assets/aie-cover.png" width="250">](https://amzn.to/49j1cGS)[<img src="assets/aie-cover-back.png" width="250">](https://amzn.to/49j1cGS)
@@ -12,15 +24,9 @@ The book is available on:
 
 and most places where technical books are sold.
 
-## Repo structure
-This book focuses on the key design decisions when building AI applications. This is NOT a tutorial book, so it doesn't have a lot of code snippets. In this repo, you won't find code examples, but you'll find:
-- [Table of contents](ToC.pdf)
-- [Chapter summaries](summary.md)
-- [Resources](resources.md)
-- [Appendix](appendix.md)
-- And more ...
+_This is NOT a tutorial book, so it doesn't have a lot of code snippets._
 
-## What This Book Is About
+## What this book is about
 This book provides a framework for adapting foundation models, which include both large language models (LLMs) and large multimodal models (LMMs), to specific applications. It not only outlines various solutions for building an AI application but also raises questions you can ask to evaluate the best solution for your needs. Here are just some of the many questions that this book can help you answer:
 
 1. Should I build this AI application?
@@ -49,7 +55,7 @@ Note that many topics are covered in DMLS but not in AIE, and vice versa. The fi
 
 A real-world system often involves both traditional ML models and foundation models, so knowledge about working with both is often necessary.
 
-## Who This Book Is For
+## Who this book is for
 
 This book is for anyone who wants to leverage foundation models to solve real-world problems. This is a technical book, so the language of this book is geared towards technical roles, including AI engineers, ML engineers, data scientists, engineering managers, and technical product managers. This book is for you if you can relate to one of the following scenarios:
 * You’re building or optimizing an AI application, whether you’re starting from scratch or looking to move beyond the demo phase into a production-ready stage. You may also be facing issues like hallucinations, security, latency, or costs, and need targeted solutions.
