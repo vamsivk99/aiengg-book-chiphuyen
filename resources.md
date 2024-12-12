@@ -185,7 +185,9 @@ I also wrote a post on [sampling for text generation](https://huyenchip.com/2024
 4. [Google's Gemini prompt engineering guide](https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf)
 5. [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) 
 6. Collections of prompt examples from [OpenAI](https://platform.openai.com/examples), [Anthropic](https://docs.anthropic.com/en/prompt-library/library), and [Google](https://console.cloud.google.com/vertex-ai/generative/prompt-gallery).
-7. [How I think about LLM prompt engineering](https://fchollet.substack.com/p/how-i-think-about-llm-prompt-engineering) (Francois Chollet, 2023) 
+7. [Larger language models do in-context learning differently
+](https://arxiv.org/abs/2303.03846) (Wei et al., 2023)
+8. [How I think about LLM prompt engineering](https://fchollet.substack.com/p/how-i-think-about-llm-prompt-engineering) (Francois Chollet, 2023) 
 
 ### Defensive prompt engineering
 
