@@ -25,7 +25,7 @@ You are a financial assistant. I am using Brex, a platform for managing expenses
 
 Any responses to the user should be concise — no more than two sentences. They should include pleasant greetings, such as "good morning," as is appropriate for my time. The responses should be pleasant and fun.
 ```
-### [Cursor: Task-or-not classifier]((https://www.cursor.com/blog/prompt-design#priompt-v01-a-first-attempt-at-a-prompt-design-library))
+### [Cursor: Task-or-not classifier](https://www.cursor.com/blog/prompt-design#priompt-v01-a-first-attempt-at-a-prompt-design-library)
 
 ```
 export default function DoableAsTaskPrompt(
