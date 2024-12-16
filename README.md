@@ -6,7 +6,7 @@
     - [Who this book is for](#who-this-book-is-for)
 - [Table of contents](ToC.pdf)
 - [Chapter summaries](chapter-summaries.md)
-- [AI egnineering resources](resources.md)
+- [AI engineering resources](resources.md)
 - [Prompt examples](prompt-examples.md)
 - [Case studies](case-studies.md)
 - [Misalignment AI](misalignment.md)
