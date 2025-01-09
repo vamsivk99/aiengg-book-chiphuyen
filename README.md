@@ -4,7 +4,7 @@
 - [About the book](#about-the-book)
     - [What this book is about](#what-this-book-is-about)
     - [Who this book is for](#who-this-book-is-for)
-- [Table of contents](ToC.pdf)
+- [Table of contents](ToC.md)
 - [Chapter summaries](chapter-summaries.md)
 - [AI egnineering resources](resources.md)
 - [Prompt examples](prompt-examples.md)
