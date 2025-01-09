@@ -252,7 +252,7 @@ I also wrote a post on [sampling for text generation](https://huyenchip.com/2024
 9. [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291) (Wang et al., 2023)
 10. [Book] [Artificial Intelligence: A Modern Approach](https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach/dp/0134610997) (Russell and Norvig, 4th edition is in 2020)
     
-    Planning is closely related to search, and this classic book has a several in-dpeth chapters on search.
+    Planning is closely related to search, and this classic book has a several in-depth chapters on search.
 
 ## Chapter 7. Finetuning
 
