@@ -11,7 +11,9 @@
 - [Case studies](case-studies.md)
 - [Misalignment AI](misalignment.md)
 - [Appendix](appendix.md)
-- Fun tools, like [ChatGPT conversation heatmap generator](scripts/ai-heatmap.ipynb)
+- Fun tools:
+    
+    - [ChatGPT and Claude conversation heatmap generator](scripts/ai-heatmap.ipynb)
 - And more ...
 
 ## About the book
