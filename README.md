@@ -1,11 +1,10 @@
-# AI Engineering: Building Applications with Foundation Models (Chip Huyen 2025)
+# AI Engineering book and other resources
 > _This repo will be updated with more resources in the next few weeks._
 
-- [About the book](#about-the-book)
-    - [What this book is about](#what-this-book-is-about)
-    - [Who this book is for](#who-this-book-is-for)
-- [Table of contents](ToC.md)
-- [Chapter summaries](chapter-summaries.md)
+- [About the book AI Engineering](#about-the-book)
+    - [Table of contents](ToC.md)
+    - [Chapter summaries](chapter-summaries.md)
+    - [Study notes](study-notes.md)
 - [AI engineering resources](resources.md)
 - [Prompt examples](prompt-examples.md)
 - [Case studies](case-studies.md)
