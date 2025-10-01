@@ -127,6 +127,85 @@ This book, after all, is an accumulation of invaluable lessons I learned through
 <br>
 <br>
 
+edit by linkedIn post: Chip Huyen just gave away $100K worth of AI engineering resources.
+
+Free. No paywall. No email capture.
+
+1200+ reference links from writing her book.
+I spent 3 hours digging through them.
+
+Found 12 that'll actually change how you build:
+
+1️⃣  Stanford CS231N  
+Still the GOAT neural networks course.
+Watch lectures 1-7 from 2017. Everything else is noise.
+https://cs231n.github.io/
+
+2️⃣  Google Sheets Prompt Engineering 
+Anthropic built an actual interactive tutorial.
+Not slides. Real exercises where you break things.
+https://lnkd.in/gySqQWnm
+
+3️⃣  Llama 3's Synthetic Data Secrets 
+Section 4.3 tells you exactly how they made 2.7M training examples.
+More importantly: how they validated them.
+https://lnkd.in/gzCsGBwm
+
+4️⃣  LinkedIn's Real Production Case Study 
+Not "we saved 10% on customer service" fluff.
+Actual semantic search implementation details.
+https://lnkd.in/gt9CW2dq
+
+5️⃣  Jeff Dean's Inference Bible 
+Pick two: latency, throughput, or context length.
+This paper shows you exactly why you can't have all three.
+https://lnkd.in/gFCuC385
+
+6️⃣  AI Incident Database 
+3000+ documented failures.
+Your "edge case" already killed someone's startup.
+https://lnkd.in/gCpgq-wx
+
+7️⃣  Contextual Retrieval (Anthropic) 
+Finally someone explains how to prep data for RAG.
+Not chunking strategies. Actual data preparation.
+https://lnkd.in/gnrTZDzm
+
+8️⃣  Scaling Monosemanticity 
+They found the "Golden Gate Bridge" neuron in Claude.
+Mind-blowing research on what models actually learn.
+https://lnkd.in/gmGuVJKC
+
+9️⃣  That Old GPT-3 Finetuning Guide 
+Still the only guide that tells you when you're overfitting.
+OpenAI never topped this one.
+https://lnkd.in/gV_WxifC
+
+🔟  BertViz 
+See attention weights in real-time.
+Finally understand what transformers actually do.
+https://lnkd.in/gyUJJXAC
+
+1️⃣1️⃣  Offensive ML Playbook 
+Every jailbreak technique in one place.
+Know thy enemy.
+https://wiki.offsecml.com
+
+1️⃣2️⃣  Berkeley Function Calling Leaderboard 
+4 common mistakes ChatGPT makes with tools.
+Your model probably makes them too.
+https://lnkd.in/gYqEsvpD
+
+The full list has 100+ resources across 10 chapters.
+
+But these 12? 
+These are the ones I bookmarked.
+
+Full repo: https://lnkd.in/giG4_3jP
+
+What resource completely changed how you think about AI?
+
+
 Chip Huyen, *AI Engineering*. O'Reilly Media, 2025.
 
     @book{aiebook2025,  
